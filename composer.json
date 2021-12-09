@@ -21,7 +21,7 @@
         "php": "^7.1 || ^8.0",
         "illuminate/database": ">=5.8.0",
         "illuminate/support": ">=5.8.0",
-        "robinvdvleuten/ulid": "^4.0"
+        "robinvdvleuten/ulid": "^5.0.0"
     },
     "require-dev": {
         "orchestra/testbench": "6.7.2",
